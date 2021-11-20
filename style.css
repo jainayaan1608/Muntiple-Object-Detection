@@ -1,0 +1,28 @@
+.icon{
+    width: 100;
+    height: 105;
+}
+.bt{
+height: 540;
+    background-image: url(doodle-classifier.webp);
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-size: cover;
+    background-position: center;    
+}
+canvas{
+    box-shadow:10px 10px 10px grey ;
+    border-radius: 20px;
+}
